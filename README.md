@@ -9,10 +9,10 @@ I love chess and any strategy related game.♟️
 Still under development
 
 ## Tools:
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7188de2b-7700-4074-ac8b-60692dd445f3" />
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4305247f-26c6-455a-a602-373a36345fd7" />
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/36781c63-8917-430e-96f8-9b915d6b323b" />
-<img width="348" height="348" alt="image" src="https://github.com/user-attachments/assets/60e36168-8c7e-4522-9062-36039f3e5d87" />
+<img width =48 alt="image" src="https://github.com/user-attachments/assets/7188de2b-7700-4074-ac8b-60692dd445f3" />
+<img width =48 alt="image" src="https://github.com/user-attachments/assets/4305247f-26c6-455a-a602-373a36345fd7" />
+<img width =48 alt="image" src="https://github.com/user-attachments/assets/36781c63-8917-430e-96f8-9b915d6b323b" />
+<img width =48 alt="image" src="https://github.com/user-attachments/assets/60e36168-8c7e-4522-9062-36039f3e5d87" />
 
 
 
